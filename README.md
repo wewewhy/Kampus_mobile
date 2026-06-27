@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # kampus_monile
 
 A new Flutter project.
@@ -20,3 +21,4 @@ samples, guidance on mobile development, and a full API reference.
 # Kampus_mobile
 dalam rangka  penulaian tugas Proyek Aplikasi mobile , maka di buatlah tugas proyek aplikasi kampus 
 >>>>>>> 1807e4d5649ced16e008cdf92c0af899a56bc087
+=======
