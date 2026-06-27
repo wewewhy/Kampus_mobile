@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # kampus_monile
 
 A new Flutter project.
@@ -15,3 +16,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Kampus_mobile
+dalam rangka  penulaian tugas Proyek Aplikasi mobile , maka di buatlah tugas proyek aplikasi kampus 
+>>>>>>> 1807e4d5649ced16e008cdf92c0af899a56bc087
